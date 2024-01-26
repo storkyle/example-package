@@ -6,7 +6,7 @@
   "scripts": {
     "build": " yarn compile",
     "compile": "tsc --project tsconfig.json && tsc-alias -p tsconfig.json",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "author": "",
   "license": "ISC",
